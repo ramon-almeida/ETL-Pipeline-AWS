@@ -1,19 +1,3 @@
-# DEMAN4 - GROUP 1 - CUP OF JOY - ETL pipeline
-
-
-
-
-## **Team members:**  
-
-
-
-- Ramon Almeida
-- Derek Tak
-- Ghazala Rehman
-- Subha Vivekanandan
-- May Alavi
-
-
 ## **Project description**
 
 ### **The problem the project was trying to solve:**
