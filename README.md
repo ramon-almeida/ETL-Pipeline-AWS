@@ -1,6 +1,6 @@
 ## **Project description**
 
-### **The problem the project was trying to solve:**
+### **The problem to solve:**
 
 The client's business is experiencing issues with collating and analysing the data they are producing at each branch, as their technical setup is limited.
 The software currently being used only generates reports for single branches which is time consuming to collate data on all branches.
